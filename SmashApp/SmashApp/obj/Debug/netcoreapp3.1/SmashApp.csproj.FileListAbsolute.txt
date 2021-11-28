@@ -1,0 +1,11 @@
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.exe
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.deps.json
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.runtimeconfig.json
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.runtimeconfig.dev.json
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.dll
+C:\Users\abone\source\repos\SmashApp\SmashApp\bin\Debug\netcoreapp3.1\SmashApp.pdb
+C:\Users\abone\source\repos\SmashApp\SmashApp\obj\Debug\netcoreapp3.1\SmashApp.csprojAssemblyReference.cache
+C:\Users\abone\source\repos\SmashApp\SmashApp\obj\Debug\netcoreapp3.1\SmashApp.AssemblyInfoInputs.cache
+C:\Users\abone\source\repos\SmashApp\SmashApp\obj\Debug\netcoreapp3.1\SmashApp.AssemblyInfo.cs
+C:\Users\abone\source\repos\SmashApp\SmashApp\obj\Debug\netcoreapp3.1\SmashApp.dll
+C:\Users\abone\source\repos\SmashApp\SmashApp\obj\Debug\netcoreapp3.1\SmashApp.pdb
