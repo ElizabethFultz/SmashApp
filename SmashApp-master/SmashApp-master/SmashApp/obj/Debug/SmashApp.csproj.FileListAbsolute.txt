@@ -1,0 +1,107 @@
+C:\Users\elifu\source\repos\SmashApp\SmashApp\bin\Debug\SmashApp.exe.config
+C:\Users\elifu\source\repos\SmashApp\SmashApp\bin\Debug\SmashApp.exe
+C:\Users\elifu\source\repos\SmashApp\SmashApp\bin\Debug\SmashApp.pdb
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.csproj.AssemblyReference.cache
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MainWindow.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\App.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp_MarkupCompile.cache
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp_MarkupCompile.lref
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MainWindow.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.g.resources
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.Properties.Resources.resources
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.csproj.GenerateResource.cache
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.csproj.CoreCompileInputs.cache
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.exe
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\SmashApp.pdb
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting1_UserValidation.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting3_StageSelection.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting4_ScoreReport.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting5_FinalScores.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\UserProfile.g.cs
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting1_UserValidation.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting3_StageSelection.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting4_ScoreReport.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\MatchReporting5_FinalScores.baml
+C:\Users\elifu\source\repos\SmashApp\SmashApp\obj\Debug\UserProfile.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\bin\Debug\SmashApp.exe.config
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\bin\Debug\SmashApp.exe
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\bin\Debug\SmashApp.pdb
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.csprojAssemblyReference.cache
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MainWindow.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting1_UserValidation.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting3_StageSelection.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting4_ScoreReport.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting5_FinalScores.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\UserProfile.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\App.g.cs
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp_MarkupCompile.cache
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp_MarkupCompile.lref
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MainWindow.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting1_UserValidation.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting3_StageSelection.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting4_ScoreReport.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\MatchReporting5_FinalScores.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\UserProfile.baml
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.g.resources
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.Properties.Resources.resources
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.csproj.GenerateResource.cache
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.exe
+C:\Users\abone\Desktop\extract\11-30-21\SmashApp-main (1)\SmashApp-main\SmashApp\obj\Debug\SmashApp.pdb
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.csproj.AssemblyReference.cache
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MainWindow.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting1_UserValidation.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting3_StageSelection.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting4_ScoreReport.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting5_FinalScores.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\UserProfile.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\App.g.cs
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp_MarkupCompile.cache
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp_MarkupCompile.lref
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.exe
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.pdb
+E:\SmashApp-main\SmashApp-main\SmashApp\bin\Debug\SmashApp.exe.config
+E:\SmashApp-main\SmashApp-main\SmashApp\bin\Debug\SmashApp.exe
+E:\SmashApp-main\SmashApp-main\SmashApp\bin\Debug\SmashApp.pdb
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MainWindow.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting1_UserValidation.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting3_StageSelection.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting4_ScoreReport.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\MatchReporting5_FinalScores.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\UserProfile.baml
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.g.resources
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.Properties.Resources.resources
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.csproj.GenerateResource.cache
+E:\SmashApp-main\SmashApp-main\SmashApp\obj\Debug\SmashApp.csproj.CoreCompileInputs.cache
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\bin\Debug\SmashApp.exe.config
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\bin\Debug\SmashApp.exe
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\bin\Debug\SmashApp.pdb
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.csprojAssemblyReference.cache
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MainWindow.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting1_UserValidation.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting3_StageSelection.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting4_ScoreReport.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting5_FinalScores.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\UserProfile.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\App.g.cs
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp_MarkupCompile.cache
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp_MarkupCompile.lref
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MainWindow.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting1_UserValidation.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting2_CharacterSelection.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting3_StageSelection.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting4_ScoreReport.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\MatchReporting5_FinalScores.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\UserProfile.baml
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.g.resources
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.Properties.Resources.resources
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.csproj.GenerateResource.cache
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.exe
+C:\Users\abone\Desktop\extract\12-1-21\SmashApp-master\SmashApp-master\SmashApp\obj\Debug\SmashApp.pdb
