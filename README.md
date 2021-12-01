@@ -24,8 +24,11 @@ The last and final part of this project was the prototype itself. By far the mos
 https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
 ### Running Unit Tests:
+
+   With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes the Match Reporting feature to record match data for two players and produces results of the match's winner. The User Profile feature includes the player's username, favorite charaectet by dropdown list, state, and city on a page to interact with. For the testing process, the first method tests the five MatchReporting classes and the second method then runs the standard user profiles class for its two functions.
    
 ### Demo Video: 
+
 
 ### Project Reflection:
 
