@@ -32,12 +32,12 @@ https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
 ### Project Reflection:
 
-    Part 1
-    
-    Part 2
-    
-    Part 3
-    
-    Part 4
-
+   Part 1
+    At the beginning of this group project, trying to find an idea for the overall class felt difficult at first. Aaron, however, crafted a great idea to create an application for Super Smash players to use and record tournament information. Teh process of jotting down potential people interested in our product and the features was not a difficult task. I think our product vision was good, but could be improved on in the future. Cretaing the box was relatively simple since Elizabeth had skills in arts and crafts. our presentation went pretty well as we covered the basics on what SmashApp was all about. It was off the top of our heads too, since we didn't really prep a speech for everybody.
+   Part 2
+    When interviewing potential users of SmashApp, on Jaylon's end, he interviewed most people with no time to set up tournaments or attend them for Smash Bros., but interested overall about the idea. Aaron's interviews included attendees from his Smash Club and they seemed estatic about the idea. Our feature diagrams on possible function s were very suitable with what our group wanted to create. Also, the descriptions of personas, scenarios, user stories, and a proper feature list were very basic, but our video definetely gave more confidence on our projects backing. 
+   Part 3
+    For our architectual design, we took most of the ideas on our data sources being CSV files that would be transformed into the database rows. This would be represented in a GUI format and allowed automatic updates in the system for all players. This overall lays out the products organization, distribution, and what tech is involved in building our system.
+   Part 4
+   On the last stretch of this project, there were alot of issues with producing our prototype. Mostly, this involved scheduling issues, even throughout the semester, and working alongside different group projects in different classes. I think we could've donee better with more time, but that seemed like an immpossibility at the time.
 
