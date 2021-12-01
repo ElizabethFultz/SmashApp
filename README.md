@@ -18,7 +18,8 @@ Docker Instructions
 
 Docker Link: https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
-Running Unit Tests:
+### Running Unit Tests:
+   
 
 Demo Video: 
 
