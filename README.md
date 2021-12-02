@@ -20,26 +20,24 @@ The last and final part of this project was the prototype itself. By far the mos
 
 ### Docker Instructions:
 
+At this time we were not able to get the Docker Container in working order. 
+
 ### Docker Link:
 https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
 ### Running Unit Tests:
 
-   With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes testing the Set class for making sure the input and selections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
+With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes testing the Set class for making sure the input and selections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
    
-### Demo Video: https://video.bellarmine.edu/media/1_ey55qc8w
+### Demo Video: 
 
+https://video.bellarmine.edu/media/1_ey55qc8w
 
 ### Project Reflection:
 
-   Part 1:
-    At the beginning of this group project, trying to find an idea for the overall class felt difficult at first. Aaron, however, crafted a great idea to create an application for Super Smash players to use and record tournament information. Teh process of jotting down potential people interested in our product and the features was not a difficult task. I think our product vision was good, but could be improved on in the future. Cretaing the box was relatively simple since Elizabeth had skills in arts and crafts. our presentation went pretty well as we covered the basics on what SmashApp was all about. It was off the top of our heads too, since we didn't really prep a speech for everybody.
+This project, while incredibly difficult to do while juggling other classes and responsibilities, did teach us a lot about the design and implementation process of a software product. Especially now that we are at the end of the road in terms of developing this product for class, it is very apparent that a good foundation and product vision is necessary for the product to work out. The first assignment, while the easiest to complete, was also one of the most important as it developed a good foundation for our future work. Though the product vision we created could use some improvements, it did help us make Aaron’s idea for a Super Smash Brothers related application more concrete and viable. The process of jotting down potential people interested in our product and the features also assisted in making the idea seem like something that we could do rather than a though floating around. 
     
-   Part 2:
-    When interviewing potential users of SmashApp, on Jaylon's end, he interviewed most people with no time to set up tournaments or attend them for Smash Bros., but interested overall about the idea. Aaron's interviews included attendees from his Smash Club and they seemed estatic about the idea. Our feature diagrams on possible function s were very suitable with what our group wanted to create. Also, the descriptions of personas, scenarios, user stories, and a proper feature list were very basic, but our video definetely gave more confidence on our projects backing. 
+Another important part of this project was the creation of the user stories based on the interviews that were done by Jaylon and Aaron. Through this we were able to get some concrete feedback on the product idea from those that might be interested in using it in the future. When interviewing those potential users, Jaylon interviewed people who would not really have time set up tournaments or attend them for Smash Bros. but were interested in the idea for various reasons. Aaron's interviews included attendees from his Smash Club, and they seemed ecstatic about the idea. These interviews, which then became personas and user stories, helped guide us on what people actually might want to see from a product of this type. It was at this point that we went back to review out feature list and put what was learned and suggested in the interviews into the plan for the final product. 
     
-   Part 3:
-    For our architectual design, we took most of the ideas on our data sources being CSV files that would be transformed into the database rows. This would be represented in a GUI format and allowed automatic updates in the system for all players. This overall lays out the products organization, distribution, and what tech is involved in building our system.
-    
-   Part 4:
-   On the last stretch of this project, there were alot of issues with producing our prototype. Mostly, this involved scheduling issues, even throughout the semester, and working alongside different group projects in different classes. I think we could've donee better with more time, but that seemed like an immpossibility at the time.
+On the last stretch of this project, there were a lot of issues with producing our prototype. Mostly, this involved scheduling issues, even throughout the semester, and working alongside different group projects in different classes. We most likely could've done better, but that seemed like an impossibility at the time with everything going on. One of the biggest things that this project taught us is that while learning everything in a classroom is certainly useful, it is also extremely important to get hands on experience with the development process for products and applications, especially since so much goes into them. This experience has taught us as a group the importance of clear communication and scheduling when it comes to an assignment of this magnitude. 
+
