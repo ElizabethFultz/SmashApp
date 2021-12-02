@@ -12,7 +12,7 @@ SmashApp created by the GarlicKnights, otherwise known as Aaron Bone, Jaylon Kip
 
 ### Software Engineering Assignment #3
    
-Assignment 3 had the goal of developing the architecture for the product by determining how the product should be organized, how components should communicate, and what technologies should be used when building the system. This step in the process formed the base of the protype that was created in the next step. The documentation for this project is stored under architectural_design_GarlicKnights.pdf in the design_Documents folder.  
+Assignment 3 had the goal of developing the architecture for the product by determining how the product should be organized, how components should communicate, and what technologies should be used when building the system. This step in the process formed the base of the protype that was created in the next step. The documentation for this project is stored under architectural_design_GarlicKnights.pdf in the design_documents folder.  
 
 ### Software Engineering Assignment #4
    
@@ -27,7 +27,7 @@ https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
 ### Running Unit Tests:
 
-With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes testing the Set class for making sure the input and selections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
+With running the unit tests for SmashApp, we tested two features prevalent in the application. This includes testing the Set class for making sure the input and selections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
    
 ### Demo Video: 
 
