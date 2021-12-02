@@ -55,8 +55,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Player.cs" />
-    <Compile Include="Set.cs" />
     <Compile Include="MatchReporting1_UserValidation.xaml.cs">
       <DependentUpon>MatchReporting1_UserValidation.xaml</DependentUpon>
     </Compile>

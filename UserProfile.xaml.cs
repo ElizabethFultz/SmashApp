@@ -23,38 +23,5 @@ namespace SmashApp
         {
             InitializeComponent();
         }
-
-        private void Home_Button_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow window = new MainWindow();
-            this.Visibility = Visibility.Hidden;
-            window.Show();
-        }
-
-        private void SaveButton_Click(object sender, RoutedEventArgs e)
-        {
-            string tempName = UserNameTextbox.Text;
-            string tempChar = Player1Character_ComboBox.Text;
-            string tempSt = StateTextBox.Text;
-            string tempC = CityTextbox.Text;
-
-            Player tempPlayer = new Player(tempName, tempChar, tempSt, tempC);
-            Player[] playerList = new Player[63];
-            int indexer = 0;
-            playerList[indexer] = tempPlayer;
-            indexer += 1;
-
-            string box_msg = "You've been added to the Database!";
-
-            string box_title = "Message Box Demo";
-
-            MessageBox.Show(box_msg, box_title);
-/*
-            if (playerList[indexer] == tempPlayer)
-            {
-                
-            }//end 
-*/
-        }
     }
 }

@@ -7,14 +7,11 @@
         mc:Ignorable="d"
         Title="UserProfile" Height="900" Width="1400">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="289*"/>
-            <ColumnDefinition Width="59*"/>
-        </Grid.ColumnDefinitions>
-        <Image x:Name="Logo" HorizontalAlignment="Left" Margin="41.123,713,-140,-37" VerticalAlignment="Top" Source="/Images/SmashApp1.png" Height="193" Width="335" Grid.Column="1"/>
+        <Image x:Name="Logo" HorizontalAlignment="Left" Margin="1197,713,0,0" VerticalAlignment="Top" Source="/Images/SmashApp1.png" Height="193" Width="335"/>
         <Label x:Name="UserName_Label" Content="User Name:" HorizontalAlignment="Left" Margin="110,111,0,0" VerticalAlignment="Top" Height="81" Width="296" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="Name_Label" Content="Smashman" HorizontalAlignment="Left" Margin="433,111,0,0" VerticalAlignment="Top" Height="81" Width="296" FontSize="48" FontFamily="MS Reference Sans Serif"/>
         <Label x:Name="FavorietCharacter_Label" Content="Favorite Character: " HorizontalAlignment="Left" Margin="110,197,0,0" VerticalAlignment="Top" Height="81" Width="495" FontSize="48" FontFamily="MS Reference Sans Serif"/>
-        <ComboBox x:Name="Player1Character_ComboBox" HorizontalAlignment="Left" Height="57" Margin="605,209,0,0" VerticalAlignment="Top" Width="304" IsReadOnly="True" FontFamily="MS Reference Sans Serif" FontSize="29">
+        <ComboBox x:Name="Player1Character_ComboBox" HorizontalAlignment="Left" Height="57" Margin="605,209,0,0" VerticalAlignment="Top" Width="304" IsReadOnly="True" FontFamily="MS Reference Sans Serif" FontSize="29" IsDropDownOpen="True">
             <ComboBoxItem Content="Banjo &amp; Kazooie"/>
             <ComboBoxItem Content="Bayonetta"/>
             <ComboBoxItem Content="Bowser"/>
@@ -102,15 +99,9 @@
             <ComboBoxItem Content="Young Link"/>
             <ComboBoxItem Content="Zelda"/>
             <ComboBoxItem Content="Zero Suit Samus"/>
-            <Button Content="Button" Width="75"/>
         </ComboBox>
-        <Label x:Name="State_Label" Content="State:" HorizontalAlignment="Left" Margin="110,278,0,0" VerticalAlignment="Top" Height="81" Width="171" FontSize="48" FontFamily="MS Reference Sans Serif"/>
-        <Label x:Name="City_Label_Copy" Content="City:" HorizontalAlignment="Left" Margin="110,364,0,0" VerticalAlignment="Top" Height="81" Width="148" FontSize="48" FontFamily="MS Reference Sans Serif"/>
-        <TextBox x:Name="StateTextBox" HorizontalAlignment="Left" Height="76" Margin="286,283,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontFamily="MS Reference Sans Serif" FontSize="48"/>
-        <TextBox x:Name="UserNameTextbox" HorizontalAlignment="Left" Height="76" Margin="411,111,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontSize="48" FontFamily="MS Reference Sans Serif"/>
-        <TextBox x:Name="CityTextbox" HorizontalAlignment="Left" Height="76" Margin="263,369,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontFamily="MS Reference Sans Serif" FontSize="48"/>
-        <Button x:Name="Home_Button" Content="Main Menu" HorizontalAlignment="Center" Margin="571,582,334.877,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="Home_Button_Click"/>
-        <Button x:Name="SaveButton" Content="Save Player" HorizontalAlignment="Center" Margin="110,477,795.877,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="SaveButton_Click"/>
+        <Label x:Name="WinRatio_Label" Content="Win Ratio:" HorizontalAlignment="Left" Margin="110,278,0,0" VerticalAlignment="Top" Height="81" Width="296" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="WinRatioValue_Label" Content=".86" HorizontalAlignment="Left" Margin="404,278,0,0" VerticalAlignment="Top" Height="81" Width="296" FontSize="48" FontFamily="MS Reference Sans Serif"/>
 
     </Grid>
 </Window>

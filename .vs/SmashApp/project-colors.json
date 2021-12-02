@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37828e01-d8b3-4558-b4f9-19a7cd586929": {
+      "ProjectGuid": "37828e01-d8b3-4558-b4f9-19a7cd586929",
+      "DisplayName": "SmashApp",
+      "ColorIndex": 0
+    },
+    "2a7e9681-8532-46f9-bd61-1ecd0f4a8922": {
+      "ProjectGuid": "2a7e9681-8532-46f9-bd61-1ecd0f4a8922",
+      "DisplayName": "SmashAppTest",
+      "ColorIndex": 1
+    },
+    "2b670c41-c2f1-4d20-9627-1a3d65be2668": {
+      "ProjectGuid": "2b670c41-c2f1-4d20-9627-1a3d65be2668",
+      "DisplayName": "SmashAppTests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

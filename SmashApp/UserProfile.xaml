@@ -1,0 +1,116 @@
+﻿<Window x:Class="SmashApp.UserProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmashApp"
+        mc:Ignorable="d"
+        Title="UserProfile" Height="900" Width="1400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="289*"/>
+            <ColumnDefinition Width="59*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="Logo" HorizontalAlignment="Left" Margin="41.123,713,-140,-37" VerticalAlignment="Top" Source="/Images/SmashApp1.png" Height="193" Width="335" Grid.Column="1"/>
+        <Label x:Name="UserName_Label" Content="User Name:" HorizontalAlignment="Left" Margin="110,111,0,0" VerticalAlignment="Top" Height="81" Width="296" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="FavorietCharacter_Label" Content="Favorite Character: " HorizontalAlignment="Left" Margin="110,197,0,0" VerticalAlignment="Top" Height="81" Width="495" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <ComboBox x:Name="Player1Character_ComboBox" HorizontalAlignment="Left" Height="57" Margin="605,209,0,0" VerticalAlignment="Top" Width="304" IsReadOnly="True" FontFamily="MS Reference Sans Serif" FontSize="29">
+            <ComboBoxItem Content="Banjo &amp; Kazooie"/>
+            <ComboBoxItem Content="Bayonetta"/>
+            <ComboBoxItem Content="Bowser"/>
+            <ComboBoxItem Content="Bowser Jr"/>
+            <ComboBoxItem Content="Byleth"/>
+            <ComboBoxItem Content="Captain Falcon"/>
+            <ComboBoxItem Content="Chrom"/>
+            <ComboBoxItem Content="Cloud"/>
+            <ComboBoxItem Content="Corrin"/>
+            <ComboBoxItem Content="Daisy"/>
+            <ComboBoxItem Content="Dark Pit"/>
+            <ComboBoxItem Content="Dark Samus"/>
+            <ComboBoxItem Content="Diddy Kong"/>
+            <ComboBoxItem Content="Donkey Kong"/>
+            <ComboBoxItem Content="Dr Mario"/>
+            <ComboBoxItem Content="Duck Hunt"/>
+            <ComboBoxItem Content="Falco"/>
+            <ComboBoxItem Content="Fox"/>
+            <ComboBoxItem Content="Ganondorf"/>
+            <ComboBoxItem Content="Greninja"/>
+            <ComboBoxItem Content="Hero"/>
+            <ComboBoxItem Content="Ice Climbers"/>
+            <ComboBoxItem Content="Ike"/>
+            <ComboBoxItem Content="Incineroar"/>
+            <ComboBoxItem Content="Inkling"/>
+            <ComboBoxItem Content="Isabelle"/>
+            <ComboBoxItem Content="Jigglypuff"/>
+            <ComboBoxItem Content="Joker"/>
+            <ComboBoxItem Content="Kazuya"/>
+            <ComboBoxItem Content="Ken"/>
+            <ComboBoxItem Content="King Dedede"/>
+            <ComboBoxItem Content="King K. Rool"/>
+            <ComboBoxItem Content="Kirby"/>
+            <ComboBoxItem Content="Link"/>
+            <ComboBoxItem Content="Little Mac"/>
+            <ComboBoxItem Content="Lucario"/>
+            <ComboBoxItem Content="Lucas"/>
+            <ComboBoxItem Content="Lucina"/>
+            <ComboBoxItem Content="Luigi"/>
+            <ComboBoxItem Content="Mario"/>
+            <ComboBoxItem Content="Marth"/>
+            <ComboBoxItem Content="Mega Man"/>
+            <ComboBoxItem Content="Meta Knight"/>
+            <ComboBoxItem Content="Mewtwo"/>
+            <ComboBoxItem Content="Mii Brawler"/>
+            <ComboBoxItem Content="Mii Gunner"/>
+            <ComboBoxItem Content="Mii Swordfighter"/>
+            <ComboBoxItem Content="Min Min"/>
+            <ComboBoxItem Content="Mr. Game &amp; Watch"/>
+            <ComboBoxItem Content="Mythra"/>
+            <ComboBoxItem Content="Ness"/>
+            <ComboBoxItem Content="Olimar"/>
+            <ComboBoxItem Content="Pac-Man"/>
+            <ComboBoxItem Content="Palutena"/>
+            <ComboBoxItem Content="Peach"/>
+            <ComboBoxItem Content="Pichu"/>
+            <ComboBoxItem Content="Pikachu"/>
+            <ComboBoxItem Content="Piranha Plant"/>
+            <ComboBoxItem Content="Pit"/>
+            <ComboBoxItem Content="Pokemon Trainer"/>
+            <ComboBoxItem Content="Pyra"/>
+            <ComboBoxItem Content="Richter"/>
+            <ComboBoxItem Content="Ridley"/>
+            <ComboBoxItem Content="R.O.B."/>
+            <ComboBoxItem Content="Robin"/>
+            <ComboBoxItem Content="Rosalina &amp; Luma"/>
+            <ComboBoxItem Content="Roy"/>
+            <ComboBoxItem Content="Ryu"/>
+            <ComboBoxItem Content="Samus"/>
+            <ComboBoxItem Content="Sephiroth"/>
+            <ComboBoxItem Content="Sheik"/>
+            <ComboBoxItem Content="Shulk"/>
+            <ComboBoxItem Content="Simon"/>
+            <ComboBoxItem Content="Snake"/>
+            <ComboBoxItem Content="Sonic"/>
+            <ComboBoxItem Content="Sora"/>
+            <ComboBoxItem Content="Steve"/>
+            <ComboBoxItem Content="Terry"/>
+            <ComboBoxItem Content="Toon Link"/>
+            <ComboBoxItem Content="Villager"/>
+            <ComboBoxItem Content="Wario"/>
+            <ComboBoxItem Content="Wii Fit Trainer"/>
+            <ComboBoxItem Content="Wolf"/>
+            <ComboBoxItem Content="Yoshi"/>
+            <ComboBoxItem Content="Young Link"/>
+            <ComboBoxItem Content="Zelda"/>
+            <ComboBoxItem Content="Zero Suit Samus"/>
+            <Button Content="Button" Width="75"/>
+        </ComboBox>
+        <Label x:Name="State_Label" Content="State:" HorizontalAlignment="Left" Margin="110,278,0,0" VerticalAlignment="Top" Height="81" Width="171" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="City_Label_Copy" Content="City:" HorizontalAlignment="Left" Margin="110,364,0,0" VerticalAlignment="Top" Height="81" Width="148" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <TextBox x:Name="StateTextBox" HorizontalAlignment="Left" Height="76" Margin="286,283,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontFamily="MS Reference Sans Serif" FontSize="48"/>
+        <TextBox x:Name="UserNameTextbox" HorizontalAlignment="Left" Height="76" Margin="411,111,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <TextBox x:Name="CityTextbox" HorizontalAlignment="Left" Height="76" Margin="263,369,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380" FontFamily="MS Reference Sans Serif" FontSize="48"/>
+        <Button x:Name="Home_Button" Content="Main Menu" HorizontalAlignment="Center" Margin="571,582,334.877,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="Home_Button_Click"/>
+        <Button x:Name="SaveButton" Content="Save Player" HorizontalAlignment="Center" Margin="110,477,795.877,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="SaveButton_Click"/>
+
+    </Grid>
+</Window>

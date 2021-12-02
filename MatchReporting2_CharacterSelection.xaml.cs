@@ -12,7 +12,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-
 namespace SmashApp
 {
     /// <summary>
@@ -20,11 +19,10 @@ namespace SmashApp
     /// </summary>
     public partial class MatchReporting2_CharacterSelection : Window
     {
-        public MatchReporting2_CharacterSelection(Set s1)
+
+        public MatchReporting2_CharacterSelection()
         {
             InitializeComponent();
-            Player1Name_Textblock.Text = s1.p1;
-            Player2Name_Textblock.Text = s1.p2;
         }
 
         private void ContinueToStageSelection_Click(object sender, RoutedEventArgs e)

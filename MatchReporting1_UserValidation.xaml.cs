@@ -19,7 +19,6 @@ namespace SmashApp
     /// </summary>
     public partial class MatchReporting1_UserValidation : Window
     {
-        internal static Set s1 = new Set();
         public MatchReporting1_UserValidation()
         {
             InitializeComponent();
@@ -34,20 +33,14 @@ namespace SmashApp
 
         private void Bestof3_Button_Click(object sender, RoutedEventArgs e)
         {
-            s1.p1 = player1Name_TextBox.Text;
-            s1.p2 = player2Name_TextBox.Text;
-            s1.gameTotal = 2; ;
-            MatchReporting2_CharacterSelection characterSelection = new MatchReporting2_CharacterSelection(s1);
+            MatchReporting2_CharacterSelection characterSelection = new MatchReporting2_CharacterSelection();
             this.Visibility = Visibility.Hidden;
             characterSelection.Show();
         }
 
         private void Bestof5_Button_Click(object sender, RoutedEventArgs e)
         {
-            s1.p1 = player1Name_TextBox.Text;
-            s1.p2 = player2Name_TextBox.Text;
-            s1.gameTotal = 3;
-            MatchReporting2_CharacterSelection characterSelection = new MatchReporting2_CharacterSelection(s1);
+            MatchReporting2_CharacterSelection characterSelection = new MatchReporting2_CharacterSelection();
             this.Visibility = Visibility.Hidden;
             characterSelection.Show();
         }
@@ -63,11 +56,5 @@ namespace SmashApp
             Properties.Settings.Default["TextBoxValue2"] = ((TextBox)sender).Text;
 
         }//player 2 textbox
-        /*
-        internal static Set getSet()
-        {
-            return s1;
-        }//end getSet*/
-
     }
 }

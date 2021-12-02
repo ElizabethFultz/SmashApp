@@ -19,10 +19,9 @@ namespace SmashApp
     /// </summary>
     public partial class MatchReporting5_FinalScores : Window
     {
-        public MatchReporting5_FinalScores(string a) 
+        public MatchReporting5_FinalScores()
         {
             InitializeComponent();
-            Winner_TextBlock.Text = a;
         }
 
         private void Home_Button_Click(object sender, RoutedEventArgs e)

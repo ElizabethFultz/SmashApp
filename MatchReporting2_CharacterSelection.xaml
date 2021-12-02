@@ -9,6 +9,8 @@
     <Grid>
         <Image x:Name="Logo" HorizontalAlignment="Left" Margin="1197,713,0,0" VerticalAlignment="Top" Source="/Images/SmashApp1.png" Height="193" Width="335"/>
         <Label x:Name="CharacterSelection_Label" Content="Choose Your Fighter:" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="81" Width="517" FontSize="48" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="Player1Character_Label" Content="Player 1:" HorizontalAlignment="Left" Height="48" Margin="441,362,0,0" VerticalAlignment="Top" Width="157" FontSize="30" FontFamily="MS Reference Sans Serif"/>
+        <Label x:Name="Player2Character_Label" Content="Player 2:" HorizontalAlignment="Left" Height="48" Margin="802,362,0,0" VerticalAlignment="Top" Width="156" FontSize="30" FontFamily="MS Reference Sans Serif"/>
         <ComboBox x:Name="Player1Character_ComboBox" HorizontalAlignment="Left" Height="32" Margin="390,0,0,0" VerticalAlignment="Center" Width="258" IsReadOnly="True" FontFamily="MS Reference Sans Serif" FontSize="24">
             <ComboBoxItem Content="Banjo &amp; Kazooie"/>
             <ComboBoxItem Content="Bayonetta"/>
@@ -188,7 +190,5 @@
             <ComboBoxItem Content="Zero Suit Samus"/>
         </ComboBox>
         <Button x:Name="ContinueToStageSelection" Content="Continue" HorizontalAlignment="Center" Margin="0,582,0,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="ContinueToStageSelection_Click"/>
-        <TextBlock x:Name="Player1Name_Textblock" HorizontalAlignment="Left" Margin="477,373,0,0" TextWrapping="Wrap" Text="s1.p1" VerticalAlignment="Top" FontSize="36" RenderTransformOrigin="-0.222,0.461"/>
-        <TextBlock x:Name="Player2Name_Textblock" HorizontalAlignment="Left" Margin="838,373,0,0" TextWrapping="Wrap" Text="s1.p1" VerticalAlignment="Top" FontSize="36" RenderTransformOrigin="-0.222,0.461"/>
     </Grid>
 </Window>

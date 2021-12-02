@@ -8,9 +8,9 @@
         Title="MatchReporting5_FinalScores" Height="900" Width="1400">
     <Grid>
         <Image x:Name="Logo" HorizontalAlignment="Left" Margin="1197,713,0,0" VerticalAlignment="Top" Source="/Images/SmashApp1.png" Height="193" Width="335"/>
+        <Label x:Name="PlayerName_Label" Content="Player" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="81" Width="168" FontSize="48" FontFamily="MS Reference Sans Serif"/>
         <Label x:Name="WinMessgae_Label" Content="Has Won the Match!" HorizontalAlignment="Center" Margin="0,311,0,0" VerticalAlignment="Top" Height="81" Width="505" FontSize="48" FontFamily="MS Reference Sans Serif"/>
         <Button x:Name="Home_Button" Content="Main Menu" HorizontalAlignment="Center" Margin="0,582,0,0" VerticalAlignment="Top" Height="53" Width="250" FontFamily="MS Reference Sans Serif" FontSize="36" Background="#FFE00B03" Foreground="White" Click="Home_Button_Click"/>
-        <TextBlock x:Name="Winner_TextBlock" HorizontalAlignment="Center" Height="85" Margin="0,224,0,0" TextWrapping="Wrap" Text="adfnaodfkn" VerticalAlignment="Top" Width="188" FontSize="48"/>
 
     </Grid>
 </Window>
