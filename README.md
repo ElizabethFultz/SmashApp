@@ -25,7 +25,7 @@ https://hub.docker.com/repository/docker/elizabethfultz/smashapp
 
 ### Running Unit Tests:
 
-   With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes testing the Set class for making sure the input and slections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
+   With running the unit tests for SmashApp, we tested two features prevelant in the application. This includes testing the Set class for making sure the input and selections are running the right way for the Match Reporting function. Then there is the tests for the Player class to see if input and selection is correct for the User Function.
    
 ### Demo Video: https://video.bellarmine.edu/media/1_ey55qc8w
 
